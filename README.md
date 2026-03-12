@@ -1,7 +1,4 @@
 # Analyse des Transactions Immobilières (2023)
-
-## 👥 Auteurs
-* **Abdoul Barik ASSOUMANA KALME ANZA**
   
 ## 📝 Description
 Ce projet propose une analyse statistique et économétrique des transactions immobilières réalisées en 2023. Réalisé en **SAS**, il couvre l'importation des données, le nettoyage, l'analyse exploratoire (EDA), et la modélisation (régressions linéaires et logistiques).
